@@ -17,19 +17,19 @@ VoteMate is a secure Android-based voting application tailored for Pakistan's de
 <h2>App Walk-through:</h2>
 
 <p align="center">
-Signup Page with CNIC Verification: <br/>
+<b>Signup Page with CNIC Verification: </b><br/>
 <img src="https://i.postimg.cc/2yFsZYgJ/Picture9.png" height="80%" width="80%" alt="Signup Page"/>
 <br /><br />
-Login Page: <br/>
+<b>Login Page: </b><br/>
 <img src="https://i.postimg.cc/85gXB3dV/Picture10.png" height="80%" width="80%" alt="Login Page"/>
 <br /><br />
-User Authentication via CNIC: <br/>
+<b>User Authentication via CNIC: </b><br/>
 <img src="https://i.postimg.cc/Wzbn5Phx/Picture11.png" height="80%" width="80%" alt="CNIC Verification"/>
 <br /><br />
-Candidate Page with Party Flags: <br/>
+<b>Candidate Page with Party Flags: </b><br/>
 <img src="https://i.postimg.cc/qMWs3KXP/Picture12.png" height="80%" width="80%" alt="Candidate Page"/>
 <br /><br />
-Vote Confirmation Screen: <br/>
+<b>Vote Confirmation Screen: </b><br/>
 <img src="https://i.postimg.cc/cLMvLtDM/Picture13.png" height="80%" width="80%" alt="Vote Confirmation"/>
 </p>
 
